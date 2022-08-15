@@ -1,0 +1,7 @@
+metadata_path: data/processed/metadata.csv
+channel_number: null
+include_mirror_obj: false
+side_metadata_features_path: data/processed/side_features.csv
+real_metadata_features_path: data/processed/real_features.csv
+out_dir: data/processed/
+out_real_path: png

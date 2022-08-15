@@ -1,0 +1,6 @@
+metadata_path: data/metadata2.csv
+out_dir: data/processed/
+img_ext: .jpg
+msk_ext: .png
+visualize: false
+segmented_metadata_path: data/processed/metadata2.csv
