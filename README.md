@@ -10,7 +10,7 @@ Required packages to run the source code can be found in requirements.txt
 + Both have config files to run the code
 + Can be ran from the command line using: 
 >python segmentor.py -c configs/segmentor.yaml  
->python extractor.py -c configs/
+>python extraction.py -c configs/extractor.yaml
 ## Multi Layer Perceptron Autoencoder
 
 + The pathnames are hardcoded and may need to be changed to reflect the directory that holds your dataset
