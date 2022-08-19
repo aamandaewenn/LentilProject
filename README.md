@@ -12,18 +12,16 @@ Required packages to run the source code can be found in requirements.txt
 >python segmentor.py -c configs/segmentor.yaml  
 >python extraction.py -c configs/extractor.yaml
 ## Multi Layer Perceptron Autoencoder
-
++ Code for training MLP autoencoder and encoding previously extracted features can be found in LentilProject/LentilAutoEncoder.ipynb
 + The pathnames are hardcoded and may need to be changed to reflect the directory that holds your dataset
 ## CNN Autoencoders
-
++ Code for training shallow CNN autoencoder and encoding images can be found in LentilProject/LentilCNNAutoEncoder.ipynb
++ Code for training VGG transfer network autoencoder and encoding images can be found in LentilProject/VGGTransfer-kn.ipynb
++ The pathnames are hardcoded and may need to be changed to reflect the directory that holds your dataset
 ## K-means Clustering
++ Pipeline for clustering images using a .csv file of extracted features can be found in LentilProject/clustering pipeline.ipynb
 + The pathnames are hardcoded and may need to be changed to reflect the directory that holds your dataset
 ## Completeness Score Calculation
-+ item 1
-+ item 2
-* item 3
-- item 4
-
-> The highlighted section.  
-> The second one. 
-> the third one. 
++ Code for calculating Completeness Score from .csv file of clustering results can be found in LentilProject/CalculateCompleteness.ipynb
++ Original dataset must be labelled, you may need to change code to reflect how your dataset is labelled
++ The pathnames are hardcoded and may need to be changed to reflect the directory that holds your dataset
