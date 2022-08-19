@@ -1,5 +1,5 @@
 # Classifying Lentil Testa (Seedcoat) Phenotypes using Unsupervised Learning
-This project used a dataset of BELT images and unsupervised learning techniques to classify lentils by testa.
+This project used a dataset of BELT images and unsupervised learning techniques to classify lentils by testa   
 Trained weights for machine learning models can be found [here](https://drive.google.com/drive/folders/1wXH5kVpuuVro9x5_Y_LRWXuJ-TFzmt4p)  
 Required packages to run the source code can be found in requirements.txt and installed with:
 >pip install -r requirements.txt  
