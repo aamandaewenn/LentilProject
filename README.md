@@ -5,6 +5,6 @@
 * item 3
 - item 4
 
-> The highlighted section. 
-> The second one
-> the third one
+> The highlighted section.  
+> The second one. 
+> the third one. 
